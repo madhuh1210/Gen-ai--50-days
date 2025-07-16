@@ -1,0 +1,20 @@
+6 main types
+1)GANs
+they have 2 neural networks competing.A generator creates a  fake imgs from random noise while a discriminator tries to spot the fake.they battle until the fakes become perfect. like deepfakes
+
+2)VAE 
+variational auto encoder- compression artits learn to compress images into simple num codes n decompress them back like zipping files but smarter .they create a latent space where similar things are close together . like in face 
+identification we do it by marking the coordinates on a map now moving b/w points create smooth transition n this is how ai app converts our img to celeb faces.
+
+3)Auto regressive model
+based on all the previous words they predict one word at a time. it uses transformer architecture to remember earlier conext n words.
+
+4)RNNs
+they process data sequentially with a memory loop but they suffer from vanishing gradient problem like they forget pg1 when they read pg 100, LSTM N GRUs fix this with gates that decide on what to remember.
+
+5)Transformers
+attention masters-its like reading a book n u attend all the times that word has come in the book like a mechanism with positional encoding n multi head attention.
+
+6)Reinforcement learning
+it learns from rewards . technique is called RLHF its called reinforcement learning from human feedback
+humans rate outputs n model learns from preferences
