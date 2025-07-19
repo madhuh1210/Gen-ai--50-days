@@ -1,0 +1,7 @@
+Multi model ai
+all superpowers in one model- instead of having diff ai to handle text imgs n audio , we can handle 1 ai that handles everything.
+eg: gpt sora etc 
+they work in the backend w smtg called as embeded space they all speak the same language , say if u give a promt like change my messy desk to asthetic desk ideas n upload ur pic of
+desk then what it does is that it converts both the img n promt text into numerical lang this is called embeddings  then undertands it 
+then processes them using cross attention mechanisms -machine code translation
+then outputs reponse
